@@ -85,4 +85,4 @@ python manage.py createsuperuser.
 Эльдар Сабирович
 '''
 
-![Workflow stat](https://github.com/KunAgueroAgness/yamdb_final/actions/workflows/yamdb_workflow/badge.svg)
+![Workflow stat](https://github.com/KunAgueroAgness/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
