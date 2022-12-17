@@ -118,7 +118,6 @@ class Title(models.Model):
         verbose_name='Жанр',
         related_name='titles',
         blank=True,
-        null=True,
     )
     category = models.ForeignKey(
         Category,
