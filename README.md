@@ -1,3 +1,5 @@
+![Workflow stat](https://github.com/KunAgueroAgness/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
 # REST API для сервиса - база отзывов о фильмах, книгах и музыке.
 
 С использованием Continuous Integration и Continuous Deployment.
@@ -84,5 +86,3 @@ python manage.py createsuperuser.
 '''
 Эльдар Сабирович
 '''
-
-![Workflow stat](https://github.com/KunAgueroAgness/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
