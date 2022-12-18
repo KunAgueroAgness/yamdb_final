@@ -119,7 +119,7 @@ docker-compose exec web python manage.py collectstatic --no-input
 Проверьте работоспособность приложения, для этого перейдите на страницу:
 
 ```
- http://localhost/admin/
+ http://158.160.20.37/admin/
 ```
 ## _Подготовка сервера_
 Работа происходит с виртуальной машиной ( в данном случае в Яндекс.Облаке). Чтобы всё прошло успешно, сервер нужно подготовить к работе.
@@ -155,8 +155,9 @@ sudo docker-compose exec web python manage.py createsuperuser
 ***Документация*** (запросы для работа с API):
 
 ```
- http://localhost/redoc/
+ http://158.160.20.37/redoc/
 ```
+
 
 Автор проекта:
 
